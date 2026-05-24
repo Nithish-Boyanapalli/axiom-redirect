@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://nithish-05-axiom.hf.space/$1"
+    }
+  ]
+}
