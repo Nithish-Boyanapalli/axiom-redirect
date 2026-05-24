@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://nithish-05-axiom.hf.space",
-      "permanent": false
-    }
-  ]
-}
